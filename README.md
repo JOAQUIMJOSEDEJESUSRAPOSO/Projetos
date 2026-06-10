@@ -15,9 +15,5 @@ Jogo de Pedra, Papel e Tesoura desenvolvido em Python utilizando Tkinter para a 
 - Tkinter
 - Random
 
-## Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+## Autor
+- Joaquim José de J. Raposo
